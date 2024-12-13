@@ -61,11 +61,11 @@ def inspect_libraries():
     libraries = {}
     libraries["schlibs"] = {}
     libraries["pcblibs"] = {}
-    schlib_path = "../AltiumSCHLIB/"
+    schlib_path = "AltiumSCHLIB/"
     for filepath in glob.iglob(schlib_path + "**/*.SchLib", recursive=True):
         filename = Path(filepath).stem
         libraries["schlibs"][filename] = schlib_parse(filepath)
-    pcblib_path = "../AltiumPCBLIB/"
+    pcblib_path = "AltiumPCBLIB/"
     for filepath in glob.iglob(pcblib_path + "**/*.PcbLib", recursive=True):
         filename = Path(filepath).stem
         libraries["pcblibs"][filename] = pcblib_parse(filepath)
@@ -87,14 +87,15 @@ def get_total_comp(libs):
 def generate_readme(libraries):
     env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
     env.filters["get_total_comp"] = get_total_comp
-    template = env.get_template("README.md.template")
-    with open("../README.md", "w") as readme_fhdl:
+    template_file_path = Path(__file__).resolve().parent.relative_to(Path.cwd().as_posix()) + "/"
+    template = env.get_template(template_file_path + "README.md.template")
+    with open("README.md", "w") as readme_fhdl:
         readme_fhdl.write(template.render(libraries=libraries))
 
 
 def main():
     libraries = inspect_libraries()
-    generate_json(libraries)
+    # generate_json(libraries)
     generate_readme(libraries)
 
 
