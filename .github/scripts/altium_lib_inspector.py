@@ -72,7 +72,7 @@ def inspect_libraries():
     for filepath in glob.iglob(pcblib_path + "**/*.??????", recursive=True):
         filename = Path(filepath).stem
         if filename.suffix.lower() == "pcblib":
-        libraries["pcblibs"][filename] = pcblib_parse(filepath)
+            libraries["pcblibs"][filename] = pcblib_parse(filepath)
     return libraries
 
 
