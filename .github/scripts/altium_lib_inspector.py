@@ -65,13 +65,13 @@ def inspect_libraries():
     # for filepath in glob.iglob(schlib_path + "**/*.SchLib", recursive=True):
     for filepath in glob.iglob(schlib_path + "**/*.??????", recursive=True):
         filename = Path(filepath).stem
-        if filename.suffix.lower() == "schlib":
+        if Path(filepath).suffix.lower() == "schlib":
             libraries["schlibs"][filename] = schlib_parse(filepath)
     pcblib_path = "AltiumPCBLIB/"
     # for filepath in glob.iglob(pcblib_path + "**/*.PcbLib", recursive=True):
     for filepath in glob.iglob(pcblib_path + "**/*.??????", recursive=True):
         filename = Path(filepath).stem
-        if filename.suffix.lower() == "pcblib":
+        if Path(filepath).suffix.lower() == "pcblib":
             libraries["pcblibs"][filename] = pcblib_parse(filepath)
     return libraries
 
