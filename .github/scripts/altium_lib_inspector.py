@@ -87,7 +87,7 @@ def get_total_comp(libs):
 def generate_readme(libraries):
     env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
     env.filters["get_total_comp"] = get_total_comp
-    template_file_path = Path(__file__).resolve().parent.relative_to(Path.cwd().as_posix()) + "/"
+    template_file_path = Path(__file__).resolve().parent.relative_to(Path.cwd().as_posix()).as_posix() + "/"
     template = env.get_template(template_file_path + "README.md.template")
     with open("README.md", "w") as readme_fhdl:
         readme_fhdl.write(template.render(libraries=libraries))
