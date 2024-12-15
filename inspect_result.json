@@ -1,0 +1,1718 @@
+{
+    "schlibs": {
+        "conn_header_2.54mm_st": [
+            {
+                "LIBREFERENCE": "HDR_F_1",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 1POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1",
+                        "DESCRIPTION": "Connector; Header; 1 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X10",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 10POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X10",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X11",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 11POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X11",
+                        "DESCRIPTION": "Connector; Header; 11 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X12",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 12POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X12",
+                        "DESCRIPTION": "Connector; Header; 12 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X13",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 13POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X13",
+                        "DESCRIPTION": "Connector; Header; 13 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X14",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 14POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X14",
+                        "DESCRIPTION": "Connector; Header; 14 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X15",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 15POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X15",
+                        "DESCRIPTION": "Connector; Header; 15 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X16",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 16POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X16",
+                        "DESCRIPTION": "Connector; Header; 16 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X17",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 17POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X17",
+                        "DESCRIPTION": "Connector; Header; 17 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X18",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 18POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X18",
+                        "DESCRIPTION": "Connector; Header; 18 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X19",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 19POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X19",
+                        "DESCRIPTION": "Connector; Header; 19 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X2",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 2POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X2",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X20",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 20POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X20",
+                        "DESCRIPTION": "Connector; Header; 20 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X21",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 21POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X21",
+                        "DESCRIPTION": "Connector; Header; 21 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X22",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 22POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X22",
+                        "DESCRIPTION": "Connector; Header; 22 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X23",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 23POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X23",
+                        "DESCRIPTION": "Connector; Header; 23 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X24",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 24POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X24",
+                        "DESCRIPTION": "Connector; Header; 24 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X25",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 25POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X25",
+                        "DESCRIPTION": "Connector; Header; 25 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X26",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 26POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X26",
+                        "DESCRIPTION": "Connector; Header; 26 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X27",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 27POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X27",
+                        "DESCRIPTION": "Connector; Header; 27 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X28",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 28POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X28",
+                        "DESCRIPTION": "Connector; Header; 28 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X29",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 29POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X29",
+                        "DESCRIPTION": "Connector; Header; 29 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X3",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 3POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X3",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X30",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 30POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X30",
+                        "DESCRIPTION": "Connector; Header; 30 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X31",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 31POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X31",
+                        "DESCRIPTION": "Connector; Header; 31 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X32",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 32POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X32",
+                        "DESCRIPTION": "Connector; Header; 32 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X33",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 33POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X33",
+                        "DESCRIPTION": "Connector; Header; 33 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X34",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 34POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X34",
+                        "DESCRIPTION": "Connector; Header; 34 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X35",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 35POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X35",
+                        "DESCRIPTION": "Connector; Header; 35 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X36",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 36POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X36",
+                        "DESCRIPTION": "Connector; Header; 36 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X37",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 37POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X37",
+                        "DESCRIPTION": "Connector; Header; 37 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X38",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 38POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X38",
+                        "DESCRIPTION": "Connector; Header; 38 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X39",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 39POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X39",
+                        "DESCRIPTION": "Connector; Header; 39 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X4",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 4POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X4",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X40",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 40POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X40",
+                        "DESCRIPTION": "Connector; Header; 40 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X5",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 5POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X5",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X6",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 6POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X6",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X7",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 7POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X7",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X8",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 8POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X8",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_1X9",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 9POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_1X9",
+                        "DESCRIPTION": "HEADER FEMALE pitch: 2.54mm"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X10",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 20POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X10",
+                        "DESCRIPTION": "Connector; Header; 10x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X11",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 22POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X11",
+                        "DESCRIPTION": "Connector; Header; 11x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X12",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 24POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X12",
+                        "DESCRIPTION": "Connector; Header; 12x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X13",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 26POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X13",
+                        "DESCRIPTION": "Connector; Header; 13x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X14",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 28POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X14",
+                        "DESCRIPTION": "Connector; Header; 14x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X15",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 30POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X15",
+                        "DESCRIPTION": "Connector; Header; 15x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X16",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 32POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X16",
+                        "DESCRIPTION": "Connector; Header; 16x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X17",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 34POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X17",
+                        "DESCRIPTION": "Connector; Header; 17x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X18",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 36POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X18",
+                        "DESCRIPTION": "Connector; Header; 18x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X19",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 38POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X19",
+                        "DESCRIPTION": "Connector; Header; 19x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X2",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 4POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X2",
+                        "DESCRIPTION": "Connector; Header; 2x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X20",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 40POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X20",
+                        "DESCRIPTION": "Connector; Header; 20x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X21",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X21",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X22",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X22",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X23",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X23",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X24",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X24",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X25",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X25",
+                        "DESCRIPTION": "Connector; Header; 20x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X26",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X26",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X27",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X27",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X28",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X28",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X29",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X29",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X3",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 6POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X3",
+                        "DESCRIPTION": "Connector; Header; 3x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X30",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X30",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X31",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X31",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X32",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 64POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X32",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X33",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 66POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X33",
+                        "DESCRIPTION": "Male Header 2X32 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X34",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm, 68POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X34",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X35",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm, 70POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X35",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X36",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm, 72POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X36",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X37",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X37",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X38",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm, 76POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X38",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X39",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X39",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X4",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 8POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X4",
+                        "DESCRIPTION": "Connector; Header; 4x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X40",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, female, pitch: 2.54mm, 80POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X40",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X5",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 10POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X5",
+                        "DESCRIPTION": "Connector; Header; 5x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X6",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 12POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X6",
+                        "DESCRIPTION": "Connector; Header; 6x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X7",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 14POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X7",
+                        "DESCRIPTION": "Connector; Header; 7x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X8",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 16POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X8",
+                        "DESCRIPTION": "Connector; Header; 8x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_F_2X9",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Female, pitch: 2.54mm, 18POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_F_2X9",
+                        "DESCRIPTION": "Connector; Header; 9x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 1POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X10",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 10POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X10"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X11",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 11POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X11"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X12",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 12POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X12"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X13",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 13POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X13"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X14",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 14POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X14"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X15",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 15POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X15"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X16",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 16POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X16"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X17",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 17POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X17"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X18",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 18POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X18"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X19",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 19POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X19"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X2",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 2POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X2"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X20",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 20POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X20"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X21",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 21POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X21",
+                        "DESCRIPTION": "Connector; Header; 21 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X22",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 22POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X22",
+                        "DESCRIPTION": "Connector; Header; 22 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X23",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 23POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X23",
+                        "DESCRIPTION": "Connector; Header; 23 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X24",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 24POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X24",
+                        "DESCRIPTION": "Connector; Header; 24 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X25",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 25POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X25",
+                        "DESCRIPTION": "Connector; Header; 25 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X26",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 26POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X26",
+                        "DESCRIPTION": "Connector; Header; 26 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X27",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 27POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X27",
+                        "DESCRIPTION": "Connector; Header; 27 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X28",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 28POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X28",
+                        "DESCRIPTION": "Connector; Header; 28 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X29",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 29POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X29",
+                        "DESCRIPTION": "Connector; Header; 29 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X3",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 3POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X3"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X30",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 30POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X30",
+                        "DESCRIPTION": "Connector; Header; 30 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X31",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 31POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X31",
+                        "DESCRIPTION": "Connector; Header; 31 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X32",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 32POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X32",
+                        "DESCRIPTION": "Connector; Header; 32 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X33",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 33POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X33",
+                        "DESCRIPTION": "Connector; Header; 33 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X34",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 34POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X34",
+                        "DESCRIPTION": "Connector; Header; 34 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X35",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 35POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X35",
+                        "DESCRIPTION": "Connector; Header; 36 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X36",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 36POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X36",
+                        "DESCRIPTION": "Connector; Header; 35 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X37",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 37POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X37",
+                        "DESCRIPTION": "Connector; Header; 37 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X38",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 38POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X38",
+                        "DESCRIPTION": "Connector; Header; 38 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X39",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 39POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X39",
+                        "DESCRIPTION": "Connector; Header; 39 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X4",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 4POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X4"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X40",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 40POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X40",
+                        "DESCRIPTION": "Connector; Header; 40 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X5",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 5POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X5"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X6",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 6POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X6"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X7",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 7POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X7"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X8",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 8POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X8"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_1X9",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 9POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_1X9"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X10",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 20POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X10",
+                        "DESCRIPTION": "Male Header 2X10 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X11",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 22POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X11",
+                        "DESCRIPTION": "Male Header 2X11 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X12",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 24POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X12",
+                        "DESCRIPTION": "Male Header 2X12 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X13",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 26POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X13",
+                        "DESCRIPTION": "Male Header 2X13 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X14",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 28POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X14",
+                        "DESCRIPTION": "Male Header 2X14 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X15",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 30POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X15",
+                        "DESCRIPTION": "Connector; Header; 15x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X16",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 32POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X16",
+                        "DESCRIPTION": "Connector; Header; 16x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X17",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 34POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X17",
+                        "DESCRIPTION": "Connector; Header; 17x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X18",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 36POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X18",
+                        "DESCRIPTION": "Connector; Header; 18x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X19",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 38POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X19",
+                        "DESCRIPTION": "Connector; Header; 19x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X2",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 4POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X2",
+                        "DESCRIPTION": "Connector; Header; 2x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X20",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 40POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X20",
+                        "DESCRIPTION": "Connector; Header; 20x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X21",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X21",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X22",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 44POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X22",
+                        "DESCRIPTION": "Male Header 2X22 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X23",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X23",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X24",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 48POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X24",
+                        "DESCRIPTION": "Male Header 2X24 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X25",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 50POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X25",
+                        "DESCRIPTION": "Male Header 2X25 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X26",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 52POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X26",
+                        "DESCRIPTION": "Male Header 2X26 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X27",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X27",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X28",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 54POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X28",
+                        "DESCRIPTION": "Male Header 2X28 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X29",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X29",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X3",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 6POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X3",
+                        "DESCRIPTION": "Connector; Header; 3x2 Position"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X30",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 60POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X30",
+                        "DESCRIPTION": "Male Header 2X30 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X31",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X31",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X32",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 64POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X32",
+                        "DESCRIPTION": "Male Header 2X32 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X33",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 66POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X33",
+                        "DESCRIPTION": "Male Header 2X33 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X34",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 68POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X34",
+                        "DESCRIPTION": "Male Header 2X34 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X35",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 70POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X35",
+                        "DESCRIPTION": "Male Header 2X35 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X36",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 72POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X36",
+                        "DESCRIPTION": "Male Header 2X36 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X37",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X37",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X38",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 76POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X38",
+                        "DESCRIPTION": "Male Header 2X38 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X39",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm,",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X39",
+                        "DESCRIPTION": "Footprint not found"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X4",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 8POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X4",
+                        "DESCRIPTION": "Male Header 2X04 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X40",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 80POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X40",
+                        "DESCRIPTION": "Male Header 2X40 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X5",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 10POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X5",
+                        "DESCRIPTION": "Male Header 2X05 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X6",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 12POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X6",
+                        "DESCRIPTION": "Male Header 2X06 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X7",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 14POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X7",
+                        "DESCRIPTION": "Male Header 2X07 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X8",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 16POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X8",
+                        "DESCRIPTION": "Male Header 2X08 with 2.54 mm Pitch"
+                    }
+                ]
+            },
+            {
+                "LIBREFERENCE": "HDR_M_2X9",
+                "COMPONENTDESCRIPTION": "CONN, HEADER, Male, pitch: 2.54mm, 18POS",
+                "Models": [
+                    {
+                        "MODELNAME": "HDR_M_2X9",
+                        "DESCRIPTION": "Male Header 2X09 with 2.54 mm Pitch"
+                    }
+                ]
+            }
+        ]
+    },
+    "pcblibs": {
+        "7SEG": [
+            {
+                "PATTERN": "7SEGX1_10_02INCH",
+                "HEIGHT": "0mil",
+                "DESCRIPTION": "7SEG single 10pin Pitch: 1.44mm  0.2\" 10X7mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_10_2811",
+                "HEIGHT": "236.2205mil",
+                "DESCRIPTION": "7SEG single 10pin Pitch: 2.54mm  2811 0.28\" 8X10mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_10_3911",
+                "HEIGHT": "275.5906mil",
+                "DESCRIPTION": "7SEG single 10pin Pitch: 2.54mm  3911 0.39\" 10X13mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_5611",
+                "HEIGHT": "314.9606mil",
+                "DESCRIPTION": "7SEG single 10pin Pitch: 2.54mm  19X12.5mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_5611_SMD",
+                "HEIGHT": "0mil",
+                "DESCRIPTION": "",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_5INCH",
+                "HEIGHT": "0mil",
+                "DESCRIPTION": "7SEG single 5INCH, 10pin, Pitch: 5.08mm, 180X108mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX1_8_2811",
+                "HEIGHT": "236.2205mil",
+                "DESCRIPTION": "7SEG single 8pin Pitch: 2.54mm  2811 0.28\" 8X10mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX2_10_03INCH",
+                "HEIGHT": "314.9606mil",
+                "DESCRIPTION": "7SEG 2DIGIT 10pin Pitch: 2.54mm  0.3\", 15.5X15mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX2_16",
+                "HEIGHT": "314.9606mil",
+                "DESCRIPTION": "7SEG 2DIGIT 5621 0.56\", 16pin Pitch: 2.54mm, 19X25mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX2_20_02INCH",
+                "HEIGHT": "314.9606mil",
+                "DESCRIPTION": "7SEG 2DIGIT 20pin Pitch: 1.44mm  0.2\", 14X10mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX2_20_03INCH",
+                "HEIGHT": "314.9606mil",
+                "DESCRIPTION": "7SEG 2DIGIT 20pin Pitch: 1.5mm  0.3\", 14.8X12mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX3_12_2831",
+                "HEIGHT": "236.2205mil",
+                "DESCRIPTION": "7SEG single 12-1pin Pitch: 2.54mm  2831 0.28\" 24X10X5.8mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX3_12_5631",
+                "HEIGHT": "300mil",
+                "DESCRIPTION": "7SEG 3DIGIT 5631 0.56\", 12pin Pitch: 2.54mm, 19X37.5mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX4_12",
+                "HEIGHT": "300mil",
+                "DESCRIPTION": "7SEG 4DIGIT ,5641 0.56\", 12pin Pitch: 2.54mm, 19X50.3mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX4_12_03INCH",
+                "HEIGHT": "228.3465mil",
+                "DESCRIPTION": "7SEG 4DIGIT ,0.28\", 12pin Pitch: 2.54mm, 10.2X32mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "7SEGX4_14",
+                "HEIGHT": "300mil",
+                "DESCRIPTION": "7SEG 4DIGIT, clock 0.56\", 14pin Pitch: 2.54mm, 19X50.3mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "MATRIX_5X7_1318",
+                "HEIGHT": "618.1102mil",
+                "DESCRIPTION": "LED Dot Matrix 5x7 12.7mmx17.8mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "MATRIX_8X8_2020",
+                "HEIGHT": "618.1102mil",
+                "DESCRIPTION": "LED Dot Matrix 8x8 20mmx20mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "MATRIX_8X8_3232",
+                "HEIGHT": "618.1102mil",
+                "DESCRIPTION": "LED Dot Matrix 8x8 32mmx32mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "MATRIX_8X8_3838",
+                "HEIGHT": "618.1102mil",
+                "DESCRIPTION": "LED Dot Matrix 8x8 38mmx38mm",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            },
+            {
+                "PATTERN": "MATRIX_8X8_6060",
+                "HEIGHT": "55.1181mil",
+                "DESCRIPTION": "",
+                "ITEMGUID": "",
+                "REVISIONGUID": ""
+            }
+        ]
+    }
+}
